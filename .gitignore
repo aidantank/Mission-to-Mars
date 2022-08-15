@@ -1,3 +1,8 @@
+# Other files to ignore
+Practice.ipynb
+Mission_to_Mars.ipynb
+Mission_to_Mars_Challenge.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
